@@ -1,0 +1,5 @@
+Lista ed productos
+- Verdura
+- Papeleria
+- Cremeria
+- Golosinas
